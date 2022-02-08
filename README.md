@@ -1,5 +1,5 @@
 # Hi there 👋
 
-- 🌱 I’m currently work on Federated learning
+- 🌱 I’m currently work on Reinforcement Learning
 
 
