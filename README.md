@@ -1,4 +1,4 @@
- <img src="1.jpg" alt="Machine_Learning" width="1000" height="200" style="border:5px solid black"> 
+ <img src="1.jpg" alt="Machine_Learning" width="1000" height="200" style="border:20px solid black"> 
 <b>Hello and thanks for stopping by!</b>
 
 My name is Seyedamir Shobeiri.
