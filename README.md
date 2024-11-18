@@ -1,4 +1,16 @@
  <img src="Machine_learning_v1.jpg" alt="Machine_Learning" width="1000" height="200"> 
+ <div align="center">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyedamirshobeiri&langs_count=10&theme=tokyonight&layout=compact" alt="Seyedamir Shobeiri :: Top Langs" />
+  </p>
+</div>
+
+<div align="center">
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=seyedamirshobeiri&color=brightgreen" alt="Profile Views" />
+  </p>
+</div>
+
 <b>Hello and thanks for stopping by!</b>
 
 My name is Seyedamir Shobeiri.
