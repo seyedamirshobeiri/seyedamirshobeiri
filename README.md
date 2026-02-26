@@ -1,9 +1,5 @@
 <!-- ================= HEADER ================= -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/seyedamirshobeiri/seyedamirshobeiri/main/Machine_learning_v1.jpg" width="100%" />
-</p>
-
 <h1 align="center">Hi 👋 I'm Seyedamir Shobeiri</h1>
 <h3 align="center">Machine Learning Engineer • AI Researcher • Data Enthusiast</h3>
 
