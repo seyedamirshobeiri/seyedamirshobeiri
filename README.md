@@ -38,25 +38,27 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me  
 
-🎓 Bachelor’s degree in Computer Engineering  
-Islamic Azad University of Zanjan (2022)
+Data Engineer & AI Engineer with hands-on experience building scalable data pipelines and AI systems in financial and industrial environments.
 
-I work on advanced problems in:
+Currently at MC Square S.A., I design end-to-end ETL architectures for multi-subfund investment reporting, implementing FX logic, portfolio aggregation, reconciliation workflows, and automated risk reporting systems.
 
-- 🤖 Machine Learning  
-- ⚖️ Fair & Interpretable AI  
-- 📊 Data Valuation Methods  
-- 🎯 Reinforcement Learning  
+Background in Artificial Intelligence (MSc, University of Luxembourg), with research contributions in:
 
-During my academic journey, I focused on:
+- Shapley-based Data Valuation  
+- Explainable AI (SHAP, DeepLIFT)  
+- Privacy-Preserving Computer Vision  
 
-- Equitable data valuation techniques  
-- Interpretable machine learning algorithms  
-- Fairness-aware model optimization  
+Technical strengths include:
 
----
+- Python-based ETL & automation  
+- Distributed data processing (Spark, Kafka)  
+- Data modeling & warehousing  
+- Machine learning system design  
+- Dockerized and production-ready deployments  
+
+I focus on building scalable, maintainable, and business-aligned data solutions.
 
 ## 🚀 Current Focus
 
