@@ -14,7 +14,7 @@
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
+<!-- ================= GITHUB ANALYTICS ================= -->
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
@@ -22,8 +22,14 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=seyedamirshobeiri&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
+<!-- ALL Languages (Not only most used) -->
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=seyedamirshobeiri&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=seyedamirshobeiri&layout=compact&theme=tokyonight&hide_border=true&langs_count=100" />
+</p>
+
+<!-- Alternative Full Language View -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seyedamirshobeiri&theme=tokyonight" />
 </p>
 
 <p align="center">
