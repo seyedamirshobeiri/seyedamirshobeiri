@@ -27,10 +27,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=seyedamirshobeiri&layout=compact&theme=tokyonight&hide_border=true&langs_count=100" />
 </p>
 
-<!-- Alternative Full Language View -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seyedamirshobeiri&theme=tokyonight" />
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=seyedamirshobeiri&color=brightgreen&style=flat-square" />
