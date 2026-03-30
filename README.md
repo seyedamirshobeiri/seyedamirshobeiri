@@ -19,21 +19,16 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=seyedamirshobeiri&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=seyedamirshobeiri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
-<!-- ALL Languages (Not only most used) -->
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=seyedamirshobeiri&layout=compact&theme=tokyonight&hide_border=true&langs_count=100" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyedamirshobeiri&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&count_private=true" />
 </p>
-
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=seyedamirshobeiri&color=brightgreen&style=flat-square" />
 </p>
-
----
 
 ## 👨‍💻 About Me  
 
