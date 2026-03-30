@@ -19,8 +19,9 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=seyedamirshobeiri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyedamirshobeiri&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=seyedamirshobeiri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyedamirshobeiri&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
