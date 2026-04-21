@@ -22,7 +22,7 @@
 
 ## 👨‍💻 Professional Summary
 
-Data Engineer & AI Engineer specializing in **enterprise-grade ETL architectures** and **production ML systems**. Currently architecting data solutions at **MC Square S.A.**, designing end-to-end pipelines for multi-subfund investment reporting with automated reconciliation, FX logic, and risk analytics.
+Data Engineer & AI Engineer specializing in **enterprise-grade ETL architectures** and **production ML systems**. Currently architecting data solutions at **Ascender Fund Partners**, designing end-to-end pipelines for multi-subfund investment reporting with automated reconciliation, FX logic, and risk analytics.
 
 **🎓 MSc in Artificial Intelligence** – University of Luxembourg
 
