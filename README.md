@@ -50,7 +50,7 @@ Data Engineer & AI Engineer specializing in **enterprise-grade ETL architectures
 
 ## 🚀 Current Work & Focus
 
-**@ MC Square S.A.**
+**@ Ascender Fund Partners**
 - Architecting multi-source ETL pipelines for investment portfolio aggregation
 - Implementing automated FX conversion logic and reconciliation systems
 - Building risk reporting frameworks with data lineage tracking
