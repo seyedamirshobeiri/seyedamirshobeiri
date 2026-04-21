@@ -10,7 +10,7 @@
   <a href="https://seyedamirshobeiri.com/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:seyedamir.shobeiri.001@student.uni.lu">
+  <a href="mailto:shobeiriseyedamir@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/">
@@ -172,7 +172,7 @@ Research implementation of differential privacy techniques for sensitive image p
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:seyedamir.shobeiri.001@student.uni.lu">
+  <a href="mailto:shobeiriseyedamir@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
