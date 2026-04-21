@@ -22,7 +22,7 @@
 
 ## 👨‍💻 Professional Summary
 
-Data Engineer & AI Engineer specializing in **enterprise-grade ETL architectures** and **production ML systems**. Currently architecting data solutions at **Ascender Fund Partners**, designing end-to-end pipelines for multi-subfund investment reporting with automated reconciliation, FX logic, and risk analytics.
+Data Engineer & AI Engineer specializing in **enterprise-grade ETL architectures** and **production ML systems**. Currently architecting data solutions at **MC Square S.A.**, designing end-to-end pipelines for multi-subfund investment reporting with automated reconciliation, FX logic, and risk analytics.
 
 **🎓 MSc in Artificial Intelligence** – University of Luxembourg
 
@@ -50,7 +50,7 @@ Data Engineer & AI Engineer specializing in **enterprise-grade ETL architectures
 
 ## 🚀 Current Work & Focus
 
-**@ Ascender Fund Partners**
+**@ MC Square S.A.**
 - Architecting multi-source ETL pipelines for investment portfolio aggregation
 - Implementing automated FX conversion logic and reconciliation systems
 - Building risk reporting frameworks with data lineage tracking
@@ -120,12 +120,12 @@ Data Engineer & AI Engineer specializing in **enterprise-grade ETL architectures
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seyedamirshobeiri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyedamirshobeiri&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=some-repo&cache_seconds=86400" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=seyedamirshobeiri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyedamirshobeiri&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seyedamirshobeiri&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=seyedamirshobeiri&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
